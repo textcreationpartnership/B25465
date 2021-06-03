@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A key to catechisms: or An easie and familiar help for the true and right understanding of the principal substance of all catechisms whatsoever Suited to the meanest capacities, and the weakest memories.</title>
+         </titleStmt>
+         <extent>Approx. 34KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25465</idno><idno type="EEBO-CITATION">99828876</idno>
+  <idno type="VID">207025</idno>
+  <idno type="EEBO-PROQUEST">2248496941</idno>
+  
+            <idno type="STC">Wing K385</idno>
+            <idno type="PROQUEST">99828876</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828876e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25465)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207025)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1970:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A key to catechisms: or An easie and familiar help for the true and right understanding of the principal substance of all catechisms whatsoever Suited to the meanest capacities, and the weakest memories.</title>
+               </titleStmt>
+               <extent>[2], 21 [i.e. 22] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Chiswell, and to be sold by Robert Eveleigh bookseller in Exon.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 22 is misnumbered 21.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207025:1"/>
+            <pb facs="tcp:207025:1"/>
+            <p>A KEY TO Catechisms: OR An easie and familiar Help for the true and right understand<g ref="char:EOLhyphen"/>ing of the principal Substance of all Catechisms whatsoever.</p>
+            <p>Suited to The Meanest Capacities, AND The Weakest Memories.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Chiswell,</hi> and to be fold by <hi>Robert Eveleigh</hi> Bookseller in <hi>Exon.</hi> 1682.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:207025:2"/>
+            <head>To the Reader.</head>
+            <p>I Have here reduced the Principles of Christian Religion to five Heads, and in the Explanati<g ref="char:EOLhyphen"/>ons of them, endeavour'd to condescend unto the meanest Capacities, by such easie and famili<g ref="char:EOLhyphen"/>ar Windings and Inversions, as may prove helpful by Gods blessing to work these things into the Ʋnder<g ref="char:EOLhyphen"/>standings of those, who though they have learnt their Catechism without Book, do yet apprehend but little of the true sense and meaning thereof. And herein I have been particularly careful to obviate one Inconve<g ref="char:EOLhyphen"/>nience (which I have observ'd in other Attempts of somewhat a like nature) by intermixing so many Questions to be answer'd in the Negative, that it may the more easily appear, whether the party that answers, does it rather by guess and conjecture, than a distinct right understanding of the Questions propounded. Which I also mention, the rather to excuse the repeti<g ref="char:EOLhyphen"/>tion of the same things, sometimes in a different form; which I conceive, not only to be pardonable in this case, but altogether requisite, to the better attaining of the end before-mentioned. To which I shall only add, that this is such a kind of pleasing and delight<g ref="char:EOLhyphen"/>ful way of insinuating Knowledge, as will take even with some of those who will not be at the pains to un<g ref="char:EOLhyphen"/>dergo the more usual and ordinary way of Instructi<g ref="char:EOLhyphen"/>on.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb n="1" facs="tcp:207025:2"/>
+            <head>A Key to Catechisms.</head>
+            <div n="1" type="part">
+               <head>1. Of God, the Father, Son, and Holy Ghost.</head>
+               <list>
+                  <item>DO you believe there is a God? <hi>Yes.</hi>
+                  </item>
+                  <item>Hath God a body, or bodily parts? <hi>No.</hi>
+                  </item>
+                  <item>Is God a Spirit? <hi>Yes.</hi>
+                  </item>
+                  <item>Can a Spirit be seen by our bodily eyes? <hi>No.</hi>
+                  </item>
+                  <item>Is the Soul of man a Spirit? <hi>Yes.</hi>
+                  </item>
+                  <item>And are Angels Spirits? <hi>Yes.</hi>
+                  </item>
+                  <item>Are Angels and the Souls of men infinite Spi<g ref="char:EOLhyphen"/>rits? <hi>No.</hi>
+                  </item>
+                  <item>Is God an infinite Spirit? <hi>Yes.</hi>
+                  </item>
+                  <item>Had God any beginning? <hi>No.</hi>
+                  </item>
+                  <item>Shall he ever have any end? <hi>No.</hi>
+                  </item>
+                  <item>Have all Creatures a beginning? <hi>Yes.</hi>
+                  </item>
+                  <item>Is God from everlasting to everlasting? <hi>Yes.</hi>
+                  </item>
+                  <item>Is any creature from everlasting? <hi>No.</hi>
+                  </item>
+                  <item>Is there any sin in God? <hi>No.</hi>
+                  </item>
+                  <item>Doth God hate and abhor evil? <hi>Yes.</hi>
+                  </item>
+                  <item>Is he a pure and an holy God? <hi>Yes.</hi>
+                  </item>
+                  <pb n="2" facs="tcp:207025:3"/>
+                  <item>Is he also a great and a glorious God? <hi>Yes.</hi>
+                  </item>
+                  <item>Is there any glory in this world worthy to be compared with him? <hi>No.</hi>
+                  </item>
+                  <item>Doth God stand in need of any creatures? <hi>No.</hi>
+                  </item>
+                  <item>Is he in and of himself blessed for ever? <hi>Yes.</hi>
+                  </item>
+                  <item>Is God a God of infinite Wisdom? <hi>Yes.</hi>
+                  </item>
+                  <item>Is there any thing that God does not know? <hi>No.</hi>
+                  </item>
+                  <item>Is it possible for God to be deceived? <hi>No.</hi>
+                  </item>
+                  <item>Is any man equal to God in Wisdom and Know<g ref="char:EOLhyphen"/>ledge? <hi>No.</hi>
+                  </item>
+                  <item>Doth God know all our thoughts and intenti<g ref="char:EOLhyphen"/>ons? <hi>Yes.</hi>
+                  </item>
+                  <item>Doth he hear all our Words and see all our A<g ref="char:EOLhyphen"/>ctions? <hi>Yes.</hi>
+                  </item>
+                  <item>Can we hide our selves from Gods sight? <hi>No.</hi>
+                  </item>
+                  <item>Doth he see and take notice of us whenever we sin against him? <hi>Yes.</hi>
+                  </item>
+                  <item>Is there any thing too hard for God? <hi>No.</hi>
+                  </item>
+                  <item>Can God do all things whatsoever he pleas<g ref="char:EOLhyphen"/>eth? <hi>Yes.</hi>
+                  </item>
+                  <item>Did ever any man harden himself against God and prosper? <hi>No.</hi>
+                  </item>
+                  <item>Is God All-mighty? <hi>Yes.</hi>
+                  </item>
+                  <item>Is he able to destroy both Body and Soul, and to cast them into Hell-fire? <hi>Yes.</hi>
+                  </item>
+                  <item>Is it any wisdom then to fear Men more than God? <hi>No.</hi>
+                  </item>
+                  <item>Doth God do any wrong to man in afflicting of him? <hi>No.</hi>
+                  </item>
+                  <item>Is he just and righteous in all his ways. <hi>Yes.</hi>
+                  </item>
+                  <pb n="3" facs="tcp:207025:3"/>
+                  <item>Do all our mercies come from God? <hi>Yes.</hi>
+                  </item>
+                  <item>Do we deserve any of the mercies that we en<g ref="char:EOLhyphen"/>joy? <hi>No.</hi>
+                  </item>
+                  <item>Ought we then to be well contented and thank<g ref="char:EOLhyphen"/>ful at all times? <hi>Yes.</hi>
+                  </item>
+                  <item>Doth God delight in mercy? <hi>Yes.</hi>
+                  </item>
+                  <item>Is God just as well as merciful? <hi>Yes.</hi>
+                  </item>
+                  <item>Will his Patience abused be turned into fury? <hi>Yes.</hi>
+                  </item>
+                  <item>Is it possible for God to lye? <hi>No.</hi>
+                  </item>
+                  <item>Will God perform and make good his Pro<g ref="char:EOLhyphen"/>mises? <hi>Yes.</hi>
+                  </item>
+                  <item>And will he fulfil and execute his Threat<g ref="char:EOLhyphen"/>nings? <hi>Yes.</hi>
+                  </item>
+                  <item>Is there any change or alteration in God? <hi>No.</hi>
+                  </item>
+                  <item>Is there any man so holy, and just and powerful, as God is? <hi>No.</hi>
+                  </item>
+                  <item>Is God infinite in all his perfections? <hi>Yes.</hi>
+                  </item>
+                  <item>Was man from everlasting. <hi>No.</hi>
+                  </item>
+                  <item>Did man make himself? <hi>No.</hi>
+                  </item>
+                  <item>Did God make all things? <hi>Yes.</hi>
+                  </item>
+                  <item>Did God make all things out of nothing? <hi>Yes.</hi>
+                  </item>
+                  <item>Did he make all things for his own glory? <hi>Yes.</hi>
+                  </item>
+                  <item>Were we sent hither into the world meerly to please and gratifie our selves? <hi>No.</hi>
+                  </item>
+                  <item>Ought we to do all things to Gods glory? <hi>Yes.</hi>
+                  </item>
+                  <item>Are we able to preserve our selves? <hi>No.</hi>
+                  </item>
+                  <item>Doth God preserve and uphold all things? <hi>Yes.</hi>
+                  </item>
+                  <item>Is there any thing done without Gods permissi<g ref="char:EOLhyphen"/>on? <hi>No.</hi>
+                  </item>
+                  <pb n="4" facs="tcp:207025:4"/>
+                  <item>Doth God order and govern and over-rule all things in the world? <hi>Yes.</hi>
+                  </item>
+                  <item>Do you think that those were true Gods, which the Heathen worshipped as Gods? <hi>No.</hi>
+                  </item>
+                  <item>Is there only one God? <hi>Yes.</hi>
+                  </item>
+                  <item>Is this one God distinguished into three Per<g ref="char:EOLhyphen"/>sons? <hi>Yes.</hi>
+                  </item>
+                  <item>Are there any more than three Persons in the Godhead. <hi>No.</hi>
+                  </item>
+                  <item>Is Jesus Christ the first Person? <hi>No.</hi>
+                  </item>
+                  <item>Is the Holy Ghost the first Person? <hi>No.</hi>
+                  </item>
+                  <item>Is God the Father the first Person? <hi>Yes.</hi>
+                  </item>
+                  <item>Is the Holy Ghost the second Person? <hi>No.</hi>
+                  </item>
+                  <item>Is Jesus Christ the second Person? <hi>Yes.</hi>
+                  </item>
+                  <item>Is Jesus Christ God the Son? <hi>Yes.</hi>
+                  </item>
+                  <item>Is the Holy Ghost or Holy Spirit the third Per<g ref="char:EOLhyphen"/>son? <hi>Yes.</hi>
+                  </item>
+                  <item>Is the Father God? <hi>Yes.</hi>
+                  </item>
+                  <item>Is the Son God? <hi>Yes.</hi>
+                  </item>
+                  <item>Is the Holy Ghost God? <hi>Yes.</hi>
+                  </item>
+                  <item>Are these three Persons three Gods? <hi>No.</hi>
+                  </item>
+                  <item>Are these three Persons one greater than ano<g ref="char:EOLhyphen"/>ther? <hi>No.</hi>
+                  </item>
+                  <item>Were these three Persons one before ano<g ref="char:EOLhyphen"/>ther? <hi>No.</hi>
+                  </item>
+                  <item>Are they all three eternal and equal one with another. <hi>Yes.</hi>
+                  </item>
+                  <item>And are these three Persons one God? <hi>Yes.</hi>
+                  </item>
+                  <item>Is there any more than one living and true God? <hi>No.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="2" type="part">
+               <pb n="5" facs="tcp:207025:4"/>
+               <head>2. Of Man, before and since his Fall.</head>
+               <list>
+                  <item>DId God make man? <hi>Yes.</hi>
+                  </item>
+                  <item>Did God make mans body of the Dust of the Earth? <hi>Yes.</hi>
+                  </item>
+                  <item>Did God breath a living soul into him? <hi>Yes.</hi>
+                  </item>
+                  <item>Is the soul of man mortal, or that which will have an end at Death? <hi>No.</hi>
+                  </item>
+                  <item>Is the Soul of man his better part, better than his Body? <hi>Yes.</hi>
+                  </item>
+                  <item>Will it profit a man to gain the whole world if he lose his Soul? <hi>No.</hi>
+                  </item>
+                  <item>Is the Soul then chiefly and especially to be mind<g ref="char:EOLhyphen"/>ed? <hi>Yes.</hi>
+                  </item>
+                  <item>Was man created sinful? <hi>No.</hi>
+                  </item>
+                  <item>Did man come out of Gods hands innocent, pure and holy? <hi>Yes.</hi>
+                  </item>
+                  <item>Had man then the Image of God upon him? <hi>Yes.</hi>
+                  </item>
+                  <item>Did God make any Covenant or Agreement with man after he had made him? <hi>Yes.</hi>
+                  </item>
+                  <item>Was that first Covenant called a Covenant of Grace? <hi>No.</hi>
+                  </item>
+                  <item>Was the first Covenant called a Covenant of Works? <hi>Yes.</hi>
+                  </item>
+                  <item>Did God therein promise man life and happi<g ref="char:EOLhyphen"/>ness? <hi>Yes.</hi>
+                  </item>
+                  <item>And was man bound constantly to obey God in all things? <hi>Yes.</hi>
+                  </item>
+                  <item>Did God make this Covenant with our first Pa<g ref="char:EOLhyphen"/>rents only for themselves? <hi>No.</hi>
+                  </item>
+                  <pb n="6" facs="tcp:207025:5"/>
+                  <item>Did he make this Covenant with them for them<g ref="char:EOLhyphen"/>selves and for their posterity also? <hi>Yes.</hi>
+                  </item>
+                  <item>Did man keep this Covenant on his part? <hi>No.</hi>
+                  </item>
+                  <item>Did he disobey God and sin against him? <hi>Yes.</hi>
+                  </item>
+                  <item>Were our first Parents placed in the Garden of <hi>Eden? Yes.</hi>
+                  </item>
+                  <item>Had they liberty to eat of all the Trees of the Garden? <hi>No.</hi>
+                  </item>
+                  <item>Did God forbid them to eat of the Tree of know<g ref="char:EOLhyphen"/>ledge of good and Evil? <hi>Yes.</hi>
+                  </item>
+                  <item>Did they observe Gods Command therein? <hi>No.</hi>
+                  </item>
+                  <item>Was their sin the eating of that fruit which God had forbidden? <hi>Yes.</hi>
+                  </item>
+                  <item>Did <hi>Eve</hi> tempt <hi>Adam</hi> to eat of it? <hi>Yes.</hi>
+                  </item>
+                  <item>And did Satan in the Serpent tempt <hi>Eve? Yes.</hi>
+                  </item>
+                  <item>Did they hearken unto Satan more than unto God? <hi>Yes.</hi>
+                  </item>
+                  <item>Were only our first Parents guilty of that sin? <hi>No.</hi>
+                  </item>
+                  <item>Did all mankind sin in them? <hi>Yes.</hi>
+                  </item>
+                  <item>Was man thereupon lost and undone in him<g ref="char:EOLhyphen"/>self? <hi>Yes.</hi>
+                  </item>
+                  <item>Could he have found out any way for his own Recovery? <hi>No.</hi>
+                  </item>
+                  <item>Did God leave man in this sad and miserable e<g ref="char:EOLhyphen"/>state? <hi>No.</hi>
+                  </item>
+                  <item>Was God graciously pleased to make another Covenant or Agreement with man? <hi>Yes.</hi>
+                  </item>
+                  <item>Was this second Covenant a Covenant of Works? <hi>No.</hi>
+                  </item>
+                  <pb n="7" facs="tcp:207025:5"/>
+                  <item>Was God bound to make another Covenant with man? <hi>No.</hi>
+                  </item>
+                  <item>Might God have left man in his wretched and forlorn estate to be lost and miserable for ever? <hi>Yes.</hi>
+                  </item>
+                  <item>Is this second Covenant then a Covenant of Grace? <hi>Yes.</hi>
+                  </item>
+                  <item>Doth God herein promise man life and salvati<g ref="char:EOLhyphen"/>on? <hi>Yes.</hi>
+                  </item>
+                  <item>Doth God promise life absolutely to all men, so that all shall be saved, though they do what they list? <hi>No.</hi>
+                  </item>
+                  <item>Is it then upon condition of believing in Jesus Christ? <hi>Yes.</hi>
+                  </item>
+                  <item>Is it of Gods free Grace, that he will accept of a satisfaction made by another in our stead? <hi>Yes.</hi>
+                  </item>
+                  <item>Shall all that do truly believe in Jesus Christ be saved? <hi>Yes.</hi>
+                  </item>
+                  <item>Must we rely wholly upon what he hath done, and what he hath suffered for us? <hi>Yes.</hi>
+                  </item>
+                  <item>May we trust in Christ for salvation, without care to obey him? <hi>No.</hi>
+                  </item>
+                  <item>Must we be truly willing to obey him in all things? <hi>Yes.</hi>
+                  </item>
+                  <item>Shall we deserve salvation by our own Obedi<g ref="char:EOLhyphen"/>ence? <hi>No.</hi>
+                  </item>
+                  <item>Must we put our whole trust in the merits of Jesus Christ? <hi>Yes.</hi>
+                  </item>
+                  <item>Shall all those be saved, who do believe that Christ will save them? <hi>No.</hi>
+                  </item>
+                  <pb n="8" facs="tcp:207025:6"/>
+                  <item>May we be saved by any other without Christ? <hi>No.</hi>
+                  </item>
+                  <item>Or by any other joyned together with him? <hi>No.</hi>
+                  </item>
+                  <item>Or upon any other terms then as he is offered to us in the Gospel? <hi>No.</hi>
+                  </item>
+                  <item>Will he permit us to allow our selves in any one sin? <hi>No.</hi>
+                  </item>
+                  <item>Must we obey him as our Lord, as well as trust in him for our Saviour? <hi>Yes.</hi>
+                  </item>
+                  <item>Is he the Author of eternal salvation to all them that obey him? <hi>Yes.</hi>
+                  </item>
+                  <item>Are we now born righteous and innocent as God made our first Parents? <hi>No.</hi>
+                  </item>
+                  <item>Are we all conceived and born in sin? <hi>Yes.</hi>
+                  </item>
+                  <item>Are we all guilty of that first sin which <hi>Adam</hi> committed? <hi>Yes.</hi>
+                  </item>
+                  <item>Have we that righteousness, wherein he was cre<g ref="char:EOLhyphen"/>ated? <hi>No.</hi>
+                  </item>
+                  <item>Are we by nature prone and inclined to that which is good? <hi>No.</hi>
+                  </item>
+                  <item>Are we ready and forward to that which is e<g ref="char:EOLhyphen"/>vil? <hi>Yes.</hi>
+                  </item>
+                  <item>Ought we to bewail this corruption of our na<g ref="char:EOLhyphen"/>tures? <hi>Yes.</hi>
+                  </item>
+                  <item>Do we sin whenever we break any of Gods Laws? <hi>Yes.</hi>
+                  </item>
+                  <item>Either in thought, or word, or deed? <hi>Yes.</hi>
+                  </item>
+                  <item>May we leave undone what God commands? <hi>No.</hi>
+                  </item>
+                  <item>May we allow our selves to do any thing that God forbids? <hi>No.</hi>
+                  </item>
+                  <pb n="9" facs="tcp:207025:6"/>
+                  <item>Is it a sin to transgress Gods Law in the smal<g ref="char:EOLhyphen"/>lest matter? <hi>Yes.</hi>
+                  </item>
+                  <item>Is any sin small, considered absolutely in it self? <hi>No.</hi>
+                  </item>
+                  <item>Are some sins more hainous than others? <hi>Yes.</hi>
+                  </item>
+                  <item>Is the sum and substance of Gods Laws contain<g ref="char:EOLhyphen"/>ed in the ten Commandments? <hi>Yes.</hi>
+                  </item>
+                  <item>Are all the evils, pains and sorrows of this life, the fruit of sin? <hi>Yes.</hi>
+                  </item>
+                  <item>And is this all that sin deserves? <hi>No.</hi>
+                  </item>
+                  <item>Doth sin deserve death? <hi>Yes.</hi>
+                  </item>
+                  <item>Is temporal death an end of all the misery that Sin deserves? <hi>No.</hi>
+                  </item>
+                  <item>Doth Sin deserve the wrath and curse of God here and hereafter? <hi>Yes.</hi>
+                  </item>
+                  <item>Do we by reason of Sin deserve to be cast into Hell-fire? <hi>Yes.</hi>
+                  </item>
+                  <item>Are they wise then that make a mock of Sin? <hi>No.</hi>
+                  </item>
+                  <item>Will this mirth of theirs last always? <hi>No.</hi>
+                  </item>
+                  <item>Are children altogether innocent, when they are first born? <hi>No.</hi>
+                  </item>
+                  <item>Were we all of us born in Sin? <hi>Yes.</hi>
+                  </item>
+                  <item>Did we then deserve to be cast into Hell as soon as we were born? <hi>Yes.</hi>
+                  </item>
+                  <item>Is there any Condemnation to them that are in Christ Jesus? <hi>No.</hi>
+                  </item>
+                  <item>Shall they who truly repent and believe in Jesus Christ, be delivered from the wrath to come? <hi>Yes.</hi>
+                  </item>
+                  <item>May we expect forgiveness of our sins without true Repentance? <hi>No.</hi>
+                  </item>
+                  <pb n="10" facs="tcp:207025:7"/>
+                  <item>Is it safe for any man to put off and delay his Repentance? <hi>No.</hi>
+                  </item>
+                  <item>Had ever any man reason to complain that he repented too soon? <hi>No.</hi>
+                  </item>
+                  <item>Must we be truly sorry for our sins past? <hi>Yes.</hi>
+                  </item>
+                  <item>Must sorrow for Sin be our greatest sorrow? <hi>Yes.</hi>
+                  </item>
+                  <item>And must we endeavour carefully to do so no more? <hi>Yes.</hi>
+                  </item>
+                  <item>Can there be true Repentance without care of amendment? <hi>No.</hi>
+                  </item>
+                  <item>Are those who are justified, pardoned of all their Sins? <hi>Yes.</hi>
+                  </item>
+                  <item>And are their persons accepted by God as righ<g ref="char:EOLhyphen"/>teous? <hi>Yes.</hi>
+                  </item>
+                  <item>Are they accounted righteous for their own me<g ref="char:EOLhyphen"/>rits? <hi>No.</hi>
+                  </item>
+                  <item>Is it only in and through Jesus Christ? <hi>Yes.</hi>
+                  </item>
+                  <item>Are they also sanctified or made holy? <hi>Yes.</hi>
+                  </item>
+                  <item>Do they dye unto Sin? <hi>Yes.</hi>
+                  </item>
+                  <item>And do they live unto Righteousness? <hi>Yes.</hi>
+                  </item>
+                  <item>Are all true Believers holy alike, and in the same degree and measure? <hi>No.</hi>
+                  </item>
+                  <item>Are some more holy than others? <hi>Yes.</hi>
+                  </item>
+                  <item>May any man rest satisfied in that measure of ho<g ref="char:EOLhyphen"/>liness which he hath attained? <hi>No.</hi>
+                  </item>
+                  <item>Must we still labour and strive to be more ho<g ref="char:EOLhyphen"/>ly? <hi>Yes.</hi>
+                  </item>
+                  <item>Are any perfectly holy in this life? <hi>No.</hi>
+                  </item>
+                  <item>Do we deserve forgiveness of sins and eternal Sal<g ref="char:EOLhyphen"/>vation by our Repentance and Obedience? <hi>No.</hi>
+                  </item>
+                  <pb n="11" facs="tcp:207025:7"/>
+                  <item>Is it of Gods great Mercy and free Grace that any are saved? <hi>Yes.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="3" type="part">
+               <head>3. Of Mans Redeemer, the Lord Jesus Christ.</head>
+               <list>
+                  <item>IS there any other Redeemer besides Jesus Christ? <hi>No.</hi>
+                  </item>
+                  <item>Is Jesus Christ the first Person in the Trinity? <hi>No.</hi>
+                  </item>
+                  <item>Is Jesus Christ the third Person in the Trini<g ref="char:EOLhyphen"/>ty? <hi>No.</hi>
+                  </item>
+                  <item>Is Jesus Christ God? <hi>Yes.</hi>
+                  </item>
+                  <item>Is Jesus Christ Man? <hi>Yes.</hi>
+                  </item>
+                  <item>Did he become Man for our sakes? <hi>Yes.</hi>
+                  </item>
+                  <item>Was he liable to the miseries and sorrows of this life? <hi>Yes.</hi>
+                  </item>
+                  <item>And was he a Sinner as other men are? <hi>No.</hi>
+                  </item>
+                  <item>Was he in all respects as other men, sin only ex<g ref="char:EOLhyphen"/>cepted? <hi>Yes.</hi>
+                  </item>
+                  <item>Is Jesus Christ God and Man both in one Per<g ref="char:EOLhyphen"/>son? <hi>Yes.</hi>
+                  </item>
+                  <item>Was he man from all eternity? <hi>No.</hi>
+                  </item>
+                  <item>Is he God from all eternity? <hi>Yes.</hi>
+                  </item>
+                  <item>Hath Jesus Christ two distinct entire Na<g ref="char:EOLhyphen"/>tures? <hi>Yes.</hi>
+                  </item>
+                  <item>Are there two distinct Persons in Christ? <hi>No.</hi>
+                  </item>
+                  <item>Are these two distinct Natures in one Person? <hi>Yes.</hi>
+                  </item>
+                  <item>Hath he the nature of God? <hi>Yes.</hi>
+                  </item>
+                  <item>Hath he the nature of an Angel? <hi>No.</hi>
+                  </item>
+                  <item>Did he come to save the fallen Angels? <hi>No.</hi>
+                  </item>
+                  <item>Hath he nature of Man? <hi>Yes.</hi>
+                  </item>
+                  <pb n="12" facs="tcp:207025:8"/>
+                  <item>Is Jesus Christ perfect God and perfect Man? <hi>Yes.</hi>
+                  </item>
+                  <item>Does he continue to be God and Man still? <hi>Yes.</hi>
+                  </item>
+                  <item>Was Jesus Christ conceived and born in an or<g ref="char:EOLhyphen"/>dinary way as others are? <hi>No.</hi>
+                  </item>
+                  <item>Was he conceived and born in Sin? <hi>No.</hi>
+                  </item>
+                  <item>Was he conceived by the power of the Holy Ghost? <hi>Yes.</hi>
+                  </item>
+                  <item>Is the Holy Ghost a man? <hi>No.</hi>
+                  </item>
+                  <item>Is the Holy Ghost an Angel? <hi>No.</hi>
+                  </item>
+                  <item>Is the Holy Ghost God? <hi>Yes.</hi>
+                  </item>
+                  <item>Is he the first Person in the Godhead? <hi>No.</hi>
+                  </item>
+                  <item>Is he the second Person in the Godhead? <hi>No.</hi>
+                  </item>
+                  <item>Is he equal with the Father and the Son? <hi>Yes.</hi>
+                  </item>
+                  <item>Is he the sanctifier of all the elect people of God? <hi>Yes.</hi>
+                  </item>
+                  <item>Had Jesus Christ any earthly Father? <hi>No.</hi>
+                  </item>
+                  <item>Was he born of a Virgin? <hi>Yes.</hi>
+                  </item>
+                  <item>Was the Virgin <hi>Mary</hi> Christs Mother? <hi>Yes.</hi>
+                  </item>
+                  <item>Did Jesus Christ sin and fall in <hi>Adam? No.</hi>
+                  </item>
+                  <item>Did he come from <hi>Adam</hi> by a natural and ordina<g ref="char:EOLhyphen"/>ry way of Generation? <hi>No.</hi>
+                  </item>
+                  <item>Is any man else without Sin besides Jesus Christ? <hi>No.</hi>
+                  </item>
+                  <item>Doth Jesus Christ as our Redeemer execute three Offices? <hi>Yes.</hi>
+                  </item>
+                  <item>Is he a Prophet, a Priest and a King? <hi>Yes.</hi>
+                  </item>
+                  <item>Did the Prophets of old, reveal the will of God to the people? <hi>Yes.</hi>
+                  </item>
+                  <item>Doth Jesus Christ as a Prophet, reveal or make known to us Gods will? <hi>Yes.</hi>
+                  </item>
+                  <pb n="13" facs="tcp:207025:8"/>
+                  <item>Is there any thing necessary to our salvation which he hath not revealed? <hi>No.</hi>
+                  </item>
+                  <item>Doth he make known to us Gods will outwardly by his Word? <hi>Yes.</hi>
+                  </item>
+                  <item>Is the reading or hearing of Gods Word sufficient of it self to bring men to Christ? <hi>No.</hi>
+                  </item>
+                  <item>Doth Jesus Christ teach his people inwardly by his Spirit? <hi>Yes.</hi>
+                  </item>
+                  <item>Ought we then to pray for the teachings of his Spirit? <hi>Yes.</hi>
+                  </item>
+                  <item>Did the Priests of old offer up Sacrifices? <hi>Yes.</hi>
+                  </item>
+                  <item>And did Jesus Christ as Priest offer up any Sacri<g ref="char:EOLhyphen"/>fice? <hi>Yes.</hi>
+                  </item>
+                  <item>Did he offer up himself a Sacrifice? <hi>Yes.</hi>
+                  </item>
+                  <item>Is Jesus Christ to be offered up any more? <hi>No.</hi>
+                  </item>
+                  <item>Was his once offering of himself sufficient? <hi>Yes.</hi>
+                  </item>
+                  <item>Was it sufficient to satisfie Gods Justice? <hi>Yes.</hi>
+                  </item>
+                  <item>And to purchase for us his Favour? <hi>Yes.</hi>
+                  </item>
+                  <item>Did Jesus Christ dye for his own Sins? <hi>No.</hi>
+                  </item>
+                  <item>Was he holy and innocent himself? <hi>Yes.</hi>
+                  </item>
+                  <item>Did Jesus Christ dye for our Sins? <hi>Yes.</hi>
+                  </item>
+                  <item>Did he lay down his life freely and of his own ac<g ref="char:EOLhyphen"/>cord? <hi>Yes.</hi>
+                  </item>
+                  <item>Had he power so to do? <hi>Yes.</hi>
+                  </item>
+                  <item>Doth he also pray and intercede for his people, that their persons and services may find accep<g ref="char:EOLhyphen"/>tance with God? <hi>Yes.</hi>
+                  </item>
+                  <item>Doth Jesus Christ as King govern his people and protect them? <hi>Yes.</hi>
+                  </item>
+                  <pb n="14" facs="tcp:207025:9"/>
+                  <item>And make them willing to obey and submit to all his Laws? <hi>Yes.</hi>
+                  </item>
+                  <item>Will he be our Saviour, if he be not our King? <hi>No.</hi>
+                  </item>
+                  <item>Shall any of his Enemies be able to stand before him? <hi>No.</hi>
+                  </item>
+                  <item>Must we receive Jesus Christ entirely in all his Offices? <hi>Yes.</hi>
+                  </item>
+                  <item>Did Jesus Christ become man, that he might be capable of suffering? <hi>Yes.</hi>
+                  </item>
+                  <item>And that he might make satisfaction in the same nature that had offended? <hi>Yes.</hi>
+                  </item>
+                  <item>Was it man that sinned? <hi>Yes.</hi>
+                  </item>
+                  <item>And did Christ as man dye for Sin? <hi>Yes.</hi>
+                  </item>
+                  <item>Could he have suffered as he was God? <hi>No.</hi>
+                  </item>
+                  <item>Is God above all suffering? <hi>Yes.</hi>
+                  </item>
+                  <item>Did Jesus Christ dye as he was God? <hi>No.</hi>
+                  </item>
+                  <item>Did he dye as he was Man? <hi>Yes.</hi>
+                  </item>
+                  <item>Did he overcome death as he was Man? <hi>No.</hi>
+                  </item>
+                  <item>Would the sufferings of a meer man have been of value and price sufficient? <hi>No.</hi>
+                  </item>
+                  <item>Were Christs sufferings of an infinite value, be<g ref="char:EOLhyphen"/>cause he as God was infinite? <hi>Yes.</hi>
+                  </item>
+                  <item>Did he endure divers sufferings both in his Soul and Body? <hi>Yes.</hi>
+                  </item>
+                  <item>Did Jesus Christ suffer death? <hi>Yes.</hi>
+                  </item>
+                  <item>Did he dye an ordinary natural death? <hi>No.</hi>
+                  </item>
+                  <item>Did he suffer the Death of the Cross? <hi>Yes.</hi>
+                  </item>
+                  <item>Was that a painful, shameful and cursed death? <hi>Yes.</hi>
+                  </item>
+                  <item>Was Jesus Christ buried? <hi>Yes.</hi>
+                  </item>
+                  <pb n="15" facs="tcp:207025:9"/>
+                  <item>Did he consume in the Grave and turn to Earth? <hi>No.</hi>
+                  </item>
+                  <item>Did he rise again immediately out of the Grave? <hi>No.</hi>
+                  </item>
+                  <item>Did he raise himself by his own Almighty pow<g ref="char:EOLhyphen"/>er? <hi>Yes.</hi>
+                  </item>
+                  <item>Did he rise again the third day? <hi>Yes.</hi>
+                  </item>
+                  <item>Was he to continue still upon Earth, after his Resurrection? <hi>No.</hi>
+                  </item>
+                  <item>Did he continue after his Resurrection forty days here upon Earth? <hi>Yes.</hi>
+                  </item>
+                  <item>Did he then ascend or go up into Heaven? <hi>Yes.</hi>
+                  </item>
+                  <item>Is Jesus Christ in Heaven now at Gods right hand? <hi>Yes.</hi>
+                  </item>
+                  <item>Hath God any hand, or any bodily parts? <hi>No.</hi>
+                  </item>
+                  <item>Do we speak of God after the manner of men? <hi>Yes.</hi>
+                  </item>
+                  <item>Will Jesus Christ come forth from Heaven glori<g ref="char:EOLhyphen"/>ously to judge all the world? <hi>Yes.</hi>
+                  </item>
+                  <item>Shall any man be excused from coming to Judg<g ref="char:EOLhyphen"/>ment? <hi>No.</hi>
+                  </item>
+                  <item>Must every man give an account of himself to God? <hi>Yes.</hi>
+                  </item>
+                  <item>Will men be then able to hide any of their Sins? <hi>No.</hi>
+                  </item>
+                  <item>Shall all men then receive the like sentence from Jesus Christ? <hi>No.</hi>
+                  </item>
+                  <item>Will that Day when our Lord shall come, be a great and terrible Day? <hi>Yes.</hi>
+                  </item>
+                  <item>Will it be a terrible day to his own people? <hi>No.</hi>
+                  </item>
+                  <pb n="16" facs="tcp:207025:10"/>
+                  <item>Will it be a day of refreshing and triumph to them? <hi>Yes.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="4" type="part">
+               <head>4. Of the Ordinances of Jesus Christ, or means of Grace appointed by him.</head>
+               <list>
+                  <item>ARe we to attend upon the Word, Sacra<g ref="char:EOLhyphen"/>ments and Prayer? <hi>Yes.</hi>
+                  </item>
+                  <item>Are they appointed for the begetting, strength<g ref="char:EOLhyphen"/>ening and increasing of Grace in us? <hi>Yes.</hi>
+                  </item>
+                  <item>Is it sufficient to attend upon them with an out<g ref="char:EOLhyphen"/>ward and bodily Service? <hi>No.</hi>
+                  </item>
+                  <item>Must we make use of them in a reverend and spiritual manner? <hi>Yes.</hi>
+                  </item>
+                  <item>Ought we to read and hear the word of God with diligent attention? <hi>Yes.</hi>
+                  </item>
+                  <item>Must we meekly submit our selves unto it? <hi>Yes.</hi>
+                  </item>
+                  <item>Must we believe it and love it? <hi>Yes.</hi>
+                  </item>
+                  <item>And remember and practise it? <hi>Yes.</hi>
+                  </item>
+                  <item>Are all those true Believers, that do hear Gods Word? <hi>No.</hi>
+                  </item>
+                  <item>Do they deceive themselves who are hearers on<g ref="char:EOLhyphen"/>ly, and not doers of Gods Word? <hi>Yes.</hi>
+                  </item>
+                  <item>Can a man find the way to Heaven of himself without some Rule to guide him? <hi>No.</hi>
+                  </item>
+                  <item>Is there any certain Rule to guide us in the way to Heaven? <hi>Yes.</hi>
+                  </item>
+                  <item>Is that Rule the Bible, or the Scriptures of the Old and New Testament? <hi>Yes.</hi>
+                  </item>
+                  <pb n="17" facs="tcp:207025:10"/>
+                  <item>May we continually expect new Revelations from Heaven? <hi>No.</hi>
+                  </item>
+                  <item>Is the Word of God a sufficient Rule to bring us to Heaven? <hi>Yes.</hi>
+                  </item>
+                  <item>Is the hearing of Gods Word, the usual and or<g ref="char:EOLhyphen"/>dinary way and means to beget Faith? <hi>Yes.</hi>
+                  </item>
+                  <item>Ought we then diligently to wait upon it? <hi>Yes.</hi>
+                  </item>
+                  <item>Can the Word of it self prevail upon us without Gods Spirit? <hi>No.</hi>
+                  </item>
+                  <item>Should we then pray that Gods Spirit may accom<g ref="char:EOLhyphen"/>pany his Word, and set it home upon our Hearts? <hi>Yes.</hi>
+                  </item>
+                  <item>Are the Sacraments means of Grace and Salvati<g ref="char:EOLhyphen"/>on? <hi>Yes.</hi>
+                  </item>
+                  <item>Are they signs to represent and hold forth Jesus Christ and his benefits unto us? <hi>Yes.</hi>
+                  </item>
+                  <item>And are they Seals also, or Pledges of the New Covenant between God and us? <hi>Yes.</hi>
+                  </item>
+                  <item>Do we therein solemnly promise and ingage our selves to be Gods faithful Servants? <hi>Yes.</hi>
+                  </item>
+                  <item>And doth God promise that he will be our God? <hi>Yes.</hi>
+                  </item>
+                  <item>Do they that are wicked, keep this Vow and Promise so solemnly made with God? <hi>No.</hi>
+                  </item>
+                  <item>If we do our part, will God most surely keep and perform his? <hi>Yes.</hi>
+                  </item>
+                  <item>Are there any more then two Sacraments ap<g ref="char:EOLhyphen"/>pointed by Jesus Christ? <hi>No.</hi>
+                  </item>
+                  <item>Is the Lords Supper the first Sacrament? <hi>No.</hi>
+                  </item>
+                  <item>Is Baptism the first Sacrament? <hi>Yes.</hi>
+                  </item>
+                  <pb n="18" facs="tcp:207025:11"/>
+                  <item>Is the vertue and efficacy of Baptism in the Wa<g ref="char:EOLhyphen"/>ter? <hi>No.</hi>
+                  </item>
+                  <item>Is it in the Minister? <hi>No.</hi>
+                  </item>
+                  <item>Is it in Gods Blessing on his own institution and appointment? <hi>Yes.</hi>
+                  </item>
+                  <item>Doth water in Baptism signifie the washing away of Sin, and the new Birth? <hi>Yes.</hi>
+                  </item>
+                  <item>Is the Lords Supper the second Sacrament? <hi>Yes.</hi>
+                  </item>
+                  <item>Ought we to receive it in a thankful remem<g ref="char:EOLhyphen"/>brance of Christ? <hi>Yes.</hi>
+                  </item>
+                  <item>Doth the breaking of the Bread signifie that Christs Body was broken? <hi>Yes.</hi>
+                  </item>
+                  <item>Doth the pouring out of the Wine signifie that Christs Blood was shed? <hi>Yes.</hi>
+                  </item>
+                  <item>Are the Bread and Wine turned into the real sub<g ref="char:EOLhyphen"/>stance of Christs Body and Blood? <hi>No.</hi>
+                  </item>
+                  <item>Do they spiritually signifie and represent unto us the Body and Blood of Christ? <hi>Yes.</hi>
+                  </item>
+                  <item>Doth the vertue and efficacy of this Sacrament lye in the Bread and Wine? <hi>No.</hi>
+                  </item>
+                  <item>Or in the Minister? <hi>No.</hi>
+                  </item>
+                  <item>Or in Gods blessing on what he himself hath ap<g ref="char:EOLhyphen"/>pointed? <hi>Yes.</hi>
+                  </item>
+                  <item>Doth such as receive this Sacrament unworthily, partake truly of Jesus Christ therein? <hi>No.</hi>
+                  </item>
+                  <item>Are they guilty of the Body and Blood of the Lord? <hi>Yes.</hi>
+                  </item>
+                  <item>And do they eat and drink Judgment to them<g ref="char:EOLhyphen"/>selves? <hi>Yes.</hi>
+                  </item>
+                  <item>Is it sufficient for such as are unworthy to stay off
+<pb n="19" facs="tcp:207025:11"/> and content themselves without receiving this Sacrament at all? <hi>No.</hi>
+                  </item>
+                  <item>Must they endeavour with all speed to become worthy Partakers? <hi>Yes.</hi>
+                  </item>
+                  <item>May we pray to the Virgin <hi>Mary? No.</hi>
+                  </item>
+                  <item>Or to any other Saints? <hi>No.</hi>
+                  </item>
+                  <item>May we pray to the Angels? <hi>No.</hi>
+                  </item>
+                  <item>Must we pray to God alone? <hi>Yes.</hi>
+                  </item>
+                  <item>Doth God hear mens prayers for their own sakes and worthiness? <hi>No.</hi>
+                  </item>
+                  <item>Must we pray only in the Name of Jesus Christ, and for his sake and worthiness? <hi>Yes.</hi>
+                  </item>
+                  <item>Hath Jesus Christ taught us how to pray? <hi>Yes.</hi>
+                  </item>
+                  <item>Is it enough to say over so many words in pray<g ref="char:EOLhyphen"/>er, without understanding or minding what we say? <hi>No.</hi>
+                  </item>
+                  <item>Must our hearts and affections go with our words in Prayer? <hi>Yes.</hi>
+                  </item>
+                  <item>Can we pray aright or do any thing that is good, without the help of Gods Spirit? <hi>No.</hi>
+                  </item>
+                  <item>Ought we to pray to God in secret, as well as with others? <hi>Yes.</hi>
+                  </item>
+                  <item>And also to lift up our hearts frequently unto him, as we pass up and down here below? <hi>Yes.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="5" type="part">
+               <head>5. Of the different state of the Godly and Wicked, both here and hereafter.</head>
+               <list>
+                  <item>ARe those that are truly godly renewed after Gods own Image? <hi>Yes.</hi>
+                  </item>
+                  <pb n="20" facs="tcp:207025:12"/>
+                  <item>Are they like unto God in knowledge, righteous<g ref="char:EOLhyphen"/>ness and true holiness? <hi>Yes.</hi>
+                  </item>
+                  <item>Are those among the number of godly persons, who are ignorant of Jesus Christ? <hi>No.</hi>
+                  </item>
+                  <item>Are those truly godly, who love any thing else more than God? <hi>No.</hi>
+                  </item>
+                  <item>Shall any go to Heaven but such as are truly god<g ref="char:EOLhyphen"/>ly? <hi>No.</hi>
+                  </item>
+                  <item>Doth God account those his own children, that are truly godly? <hi>Yes.</hi>
+                  </item>
+                  <item>Are they blessed while they live, in every state and condition? <hi>Yes.</hi>
+                  </item>
+                  <item>Shall they want any thing that is good for them? <hi>No.</hi>
+                  </item>
+                  <item>Do all things work together for their good? <hi>Yes.</hi>
+                  </item>
+                  <item>Doth the Soul at death, depart out of the Bo<g ref="char:EOLhyphen"/>dy? <hi>Yes.</hi>
+                  </item>
+                  <item>Do the souls of all men depart and go to one and the same place? <hi>No.</hi>
+                  </item>
+                  <item>Is there any work or wisdom in the grave, whi<g ref="char:EOLhyphen"/>ther we are going? <hi>No.</hi>
+                  </item>
+                  <item>Is there any returning from the grave to a<g ref="char:EOLhyphen"/>mend? <hi>No.</hi>
+                  </item>
+                  <item>Doth our eternal state depend upon this uncer<g ref="char:EOLhyphen"/>tain time we have here? <hi>Yes.</hi>
+                  </item>
+                  <item>When the godly dye, are their souls received into Heaven? <hi>Yes.</hi>
+                  </item>
+                  <item>And are their bodies too immediately received into Heaven? <hi>No.</hi>
+                  </item>
+                  <item>Do their bodies rest in the Grave? <hi>Yes.</hi>
+                  </item>
+                  <pb n="21" facs="tcp:207025:12"/>
+                  <item>Shall their bodies ever rise again out of the grave? <hi>Yes.</hi>
+                  </item>
+                  <item>Shall they rise again at the last Day? <hi>Yes.</hi>
+                  </item>
+                  <item>Shall their bodies arise in such condition, as they were before? <hi>No.</hi>
+                  </item>
+                  <item>Shall they be raised in glory? <hi>Yes.</hi>
+                  </item>
+                  <item>Shall their souls and bodies be then joyned together again? <hi>Yes.</hi>
+                  </item>
+                  <item>And shall they part again afterwards? <hi>No.</hi>
+                  </item>
+                  <item>Shall they be owned and acquitted by Jesus Christ? <hi>Yes.</hi>
+                  </item>
+                  <item>And be for ever free from all sin and sorrow? <hi>Yes.</hi>
+                  </item>
+                  <item>Are any of them perfectly free from sin, while they are here upon earth? <hi>No.</hi>
+                  </item>
+                  <item>Doth it yet appear what they shall be? <hi>No.</hi>
+                  </item>
+                  <item>Shall they be perfectly holy in Heaven? <hi>Yes.</hi>
+                  </item>
+                  <item>Shall they be filled with unconceivable joy in Gods presence? <hi>Yes.</hi>
+                  </item>
+                  <item>Will that joy of theirs ever have an end? <hi>No.</hi>
+                  </item>
+                  <item>Shall they have the enjoyment of God for ever, together with the glorious Angels in the King<g ref="char:EOLhyphen"/>dom of Heaven? <hi>Yes.</hi>
+                  </item>
+                  <item>Are those that are wicked and ungodly, cursed while they live? <hi>Yes.</hi>
+                  </item>
+                  <item>Shall the godly and wicked live together hereaf<g ref="char:EOLhyphen"/>ter, as they do here upon earth? <hi>No.</hi>
+                  </item>
+                  <item>Shall they be for ever separated the one from the other? <hi>Yes.</hi>
+                  </item>
+                  <item>Shall there be a difference then between him that served God and him that served him not? <hi>Yes.</hi>
+                  </item>
+                  <pb n="21" facs="tcp:207025:13"/>
+                  <item>When the wicked dye, do their souls enter into Heaven? <hi>No.</hi>
+                  </item>
+                  <item>Are their souls then cast into Hell? <hi>Yes.</hi>
+                  </item>
+                  <item>Shall their souls and bodies meet again at the last Day? <hi>Yes.</hi>
+                  </item>
+                  <item>Shall the wicked be received hereafter to the en<g ref="char:EOLhyphen"/>joyment of God? <hi>No.</hi>
+                  </item>
+                  <item>Shall they then be all of them condemned by Je<g ref="char:EOLhyphen"/>sus Christ? <hi>Yes.</hi>
+                  </item>
+                  <item>And be for ever banisht from his favourable pre<g ref="char:EOLhyphen"/>sence? <hi>Yes.</hi>
+                  </item>
+                  <item>Shall they be cast into Hell torments together with the Devil and his Angels? <hi>Yes.</hi>
+                  </item>
+                  <item>Will there ever be any end of their sufferings? <hi>No.</hi>
+                  </item>
+                  <item>Will the Worm ever dye, or the Fire ever be quenched? <hi>No.</hi>
+                  </item>
+                  <item>Will it be our wisdom to think of this now? <hi>Yes.</hi>
+                  </item>
+                  <item>And to take warning and slee from the wrath to come? <hi>Yes.</hi>
+                  </item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207025:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
